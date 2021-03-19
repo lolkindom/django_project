@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bf8cbe0-c88e-47bc-9feb-cd5d8b62dfe8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +35,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\django_project" />
+      <recent name="D:\django_project\django_project" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\django_project\main\templates\main" />
     </key>
@@ -79,7 +82,7 @@
       <workItem from="1616000743018" duration="377000" />
       <workItem from="1616056899620" duration="2511000" />
       <workItem from="1616144148289" duration="4280000" />
-      <workItem from="1616165543735" duration="2318000" />
+      <workItem from="1616165543735" duration="2851000" />
     </task>
     <servers />
   </component>
