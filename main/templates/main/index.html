@@ -1,0 +1,19 @@
+{% extends 'main/base.html' %}
+
+{% block title %}
+{{ title }}
+{% endblock %}
+
+{% block content %}
+    <h1>Главная страница</h1>
+    {% if tasks %}
+        {% for each in tasks %}
+            <div class="alert alert-warning mt-2">
+            <h3>{{ each.title }}</h3>
+            <p>{{ each.task }}</p>
+            </div>
+        {% endfor %}
+    {% else %}
+        <p>Нет Задач</p>
+    {% endif %}
+{% endblock %}
