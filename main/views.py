@@ -14,7 +14,7 @@ def about(request):
 def create_task(request):
     error = ''
     if request.method == 'POST':
-        form = TaskForm(request.post)
+        form = TaskForm(request.POST)
         if form.is_valid():
             form.save()
             return redirect('home')
